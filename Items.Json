@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Grilled Salmon",
+    "Description": "Freshly grilled salmon served with a lemon butter sauce",
+    "Ingredients": [ "Salmon", "Lemon", "Butter" ],
+    "Price": 15.99,
+    "Timeslot": "Dinner",
+    "Icon": "Fish"
+  },
+  {
+    "Name": "Caesar Salad",
+    "Description": "Crisp romaine lettuce tossed with our homemade Caesar dressing",
+    "Ingredients": [ "Romaine Lettuce", "Caesar Dressing" ],
+    "Price": 7.99,
+    "Timeslot": "Lunch",
+    "Icon": "Vegetarian"
+  },
+  {
+    "Name": "Steak Frites",
+    "Description": "Juicy steak served with a side of crispy fries",
+    "Ingredients": [ "Steak", "Fries" ],
+    "Price": 18.99,
+    "Timeslot": "Dinner",
+    "Icon": "Meat"
+  },
+  {
+    "Name": "Mozzarella Sticks",
+    "Description": "Deep-fried cheese sticks",
+    "Ingredients": [ "Mozarella Cheese", "Flour", "Panko" ],
+    "Price": 5.99,
+    "Timeslot": "Lunch",
+    "Icon": "Vegetarian"
+  },
+  {
+    "Name": "Chicken Wings",
+    "Description": "Boneless chicken wings",
+    "Ingredients": [ "Chicken" ],
+    "Price": 8.99,
+    "Timeslot": "Dinner",
+    "Icon": "Chicken"
+  },
+  {
+    "Name": "Chicken Tagine",
+    "Description": "This dish features tender chicken pieces that have been slow-cooked with aromatic spices",
+    "Ingredients": [ "Chicken", "Onion", "Cilantro", "Potato", "Tomato", "Carrot", "Lemon", "Peas" ],
+    "Price": 12.99,
+    "Timeslot": "Dinner",
+    "Icon": "Chicken"
+  },
+  {
+    "Name": "Korean Spicy Ramen",
+    "Description": "Spicy ramen served with a side of kimchi in a beef broth",
+    "Ingredients": [ "Noodles", "Kimchi", "Eggs", "Spring Onions", "Seaweed", "Beef Broth", "Gochujang Chili Powder" ],
+    "Price": 18.99,
+    "Timeslot": "Dinner",
+    "Icon": "Meat"
+  },
+  {
+    "Name": "Grilled Cheese Sandwich",
+    "Description": "Two slices of bread with melted cheese",
+    "Ingredients": [ "Cheese", "Bread" ],
+    "Price": 5.99,
+    "Timeslot": "Lunch",
+    "Icon": "Vegetarian"
+  },
+  {
+    "Name": "French Fries",
+    "Description": "Crispy french fries",
+    "Ingredients": [ "French Fries" ],
+    "Price": 2.99,
+    "Timeslot": "Lunch",
+    "Icon": "Vegetarian"
+  },
+  {
+    "Name": "Pizza",
+    "Description": "Freshly baked pizza",
+    "Ingredients": [ "Pizza Dough", "Tomato Sauce", "Cheese", "Pepperoni" ],
+    "Price": 10.99,
+    "Timeslot": "Dinner",
+    "Icon": "Pizza"
+  },
+  {
+    "Name": "Spicy Tuna Roll",
+    "Description": "Spicy tuna roll",
+    "Ingredients": [ "Tuna", "Spicy Sauce" ],
+    "Price": 9.99,
+    "Timeslot": "Dinner",
+    "Icon": "Seafood"
+  },
+  {
+    "Name": "Salmon Roll",
+    "Description": "Salmon roll",
+    "Ingredients": [ "Salmon", "Spicy Sauce" ],
+    "Price": 9.99,
+    "Timeslot": "Dinner",
+    "Icon": "Seafood"
+  },
+  {
+    "Name": "Vegetable Stir Fry",
+    "Description": "A medley of fresh vegetables stir-fried in a savory sauce",
+    "Ingredients": [ "Broccoli", "Carrots", "Bell Peppers", "Soy Sauce", "Garlic" ],
+    "Price": 8.99,
+    "Timeslot": "Lunch",
+    "Icon": "Vegetarian"
+  },
+  {
+    "Name": "Chicken Caesar Wrap",
+    "Description": "Grilled chicken and crisp romaine lettuce wrapped in a soft tortilla",
+    "Ingredients": [ "Chicken", "Romaine Lettuce", "Caesar Dressing", "Tortilla" ],
+    "Price": 7.99,
+    "Timeslot": "Lunch",
+    "Icon": "Chicken"
+  },
+  {
+    "Name": "Tuna Salad Sandwich",
+    "Description": "Freshly made tuna salad served on whole grain bread",
+    "Ingredients": [ "Tuna", "Mayonnaise", "Celery", "Whole Grain Bread" ],
+    "Price": 6.99,
+    "Timeslot": "Lunch",
+    "Icon": "Fish"
+  }
+]
